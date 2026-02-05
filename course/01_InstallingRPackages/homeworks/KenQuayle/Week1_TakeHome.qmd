@@ -4,6 +4,7 @@ embed-resources: true
 format: html
 ---
 
+<<<<<<< HEAD
 ## Problem 1
 
 Per the documentation for PeacoQC, the general pipeline contains the following functions:
@@ -17,12 +18,31 @@ PlotPeacoQC()
 PeacoQCHeatmap()
 
 ## Problem 2
+=======
+# Problem 1
+
+Per the documentation for PeacoQC, the general pipeline contains the following functions:
+* system.file()
+* read.FCS()
+* RemoveMargins()
+* compensate()
+* transform()
+* PeacoQC()
+* PlotPeacoQC()
+* PeacoQCHeatmap()
+
+# Problem 2
+>>>>>>> e79ff2e (Week 1 homework submissions)
 
 There are 69 flow cytometry packages on Bioconductor, with the most being maintained by Mike Jiang (7).
 
 It would be good to look into cytoMEM and openCyto later in the course.
 
+<<<<<<< HEAD
 ## Problem 3
+=======
+# Problem 3
+>>>>>>> e79ff2e (Week 1 homework submissions)
 
 The "pak" package differs from the regular installation process in that the same function pak::pkg_install() works for packages hosted on CRAN, Bioconductor, and GitHub. It also more clearly shows which packages will be downloaded and installed and the size of the file. 
 
