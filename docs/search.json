@@ -2467,6 +2467,13 @@
     "text": "Windows Arm\n\nPositron\nOn the main Positron installation page, only the installers for Windows Computers with x86 chips are currently shown. There is a beta (experimental) version of Positron for Windows ARM (ex. Snapdragons), but it needs to be installed from Positron’s GitHub releases page.\n\nPlease note, you should download the most recent version that is available to you, as they continue to update it and fix bugs. As of February 04, 2026, you would also need to install Quarto separately.\nTo install Quarto, first navigate to their website. Quarto for Windows ARM was implemented in 2023, so the regular installer should work.\n\nAlso, you would need a Python arm64 installation installed if you decide you want to venture into using Python at any point."
   },
   {
+    "objectID": "course/00_BonusContent/BonusContent.html#visual-mode",
+    "href": "course/00_BonusContent/BonusContent.html#visual-mode",
+    "title": "Bonus Content",
+    "section": "Visual Mode",
+    "text": "Visual Mode\nWithin Positron, there exist a toggle button to switch between source and visual mode on Quarto documents. But what do you do when you can’t find it?\n\nTuns out…. Visual Mode is currently broken, so the developers removed it about two weeks ago.\nThe current way to switch to it is via right-click, then select edit visual mode.\n\nVice versa, once there, you can revert by right-clicking and selecting Edit Source Mode\n\nThe process of figuring what is going on highlights how to use a GitHub Discussion Page. This is Positrons when I searched for visual button. I then found that a similar question was asked 3 days ago that led me to the linked thread above."
+  },
+  {
     "objectID": "course/00_Floreada/index.html",
     "href": "course/00_Floreada/index.html",
     "title": "Using Floreada",
