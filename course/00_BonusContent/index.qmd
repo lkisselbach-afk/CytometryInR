@@ -89,4 +89,3 @@ And if all goes well, you will see the "Successs" pop-up in the lower-right
 ![](/course/00_BonusContent/images/SuccessToGitHub.png)
 =======
 ![](/course/00_BonusContent/images/DiscussionPageSearch.png)
->>>>>>> a669884 (Renamed to index to allow faster url)
