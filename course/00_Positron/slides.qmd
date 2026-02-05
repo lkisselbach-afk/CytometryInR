@@ -260,7 +260,19 @@ Source tab will normally be the active view, which will show everything as code/
 
 ::: {.fragment}
 ::: {.callout-tip title="."}
+<<<<<<< Updated upstream
 However, we can also switch to Visual mode (by right clicking and selecting Edit Visual Mode) which will visualize it in a similar manner as if we had rendered the document as an .html webpage.
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+However, we can also switch to Visual mode (by right clicking and selecting Edit Visual Mode) which will visualize it in a similar manner as if we had rendered the document as an .html webpage.
+=======
+However, when we switch to Visual mode, it will visualize in a similar manner as if we had rendered the document as an .html webpage.
+>>>>>>> b25659b (Slides from Notes to callouts for text)
+=======
+However, we can also switch to Visual mode (by right clicking and selecting Edit Visual Mode) which will visualize it in a similar manner as if we had rendered the document as an .html webpage.
+>>>>>>> 4d7fb80 (Bonus Content section for short walk-through posting for the Discussion Page Q and A section)
+>>>>>>> Stashed changes
 :::
 :::
 
@@ -282,6 +294,28 @@ As more files are opened, they will appear as individual tabs. These can be open
 
 ---
 
+<<<<<<< Updated upstream
+=======
+=======
+
+![](images/EditVisualMode.png)
+
+---
+
+![](images/10_Visual.png)
+
+---
+
+::: {.fragment}
+::: {.callout-tip title="."}
+As more files are opened, they will appear as individual tabs. These can be opened and closed as need be. The color of the text also displays their saved status. 
+:::
+:::
+
+---
+
+>>>>>>> b25659b (Slides from Notes to callouts for text)
+>>>>>>> Stashed changes
 ![](images/11_NavigatingBetween.png)
 
 
