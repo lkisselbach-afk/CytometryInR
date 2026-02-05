@@ -53,6 +53,7 @@ Vice versa, once there, you can revert by right-clicking and selecting Edit Sour
 
 The process of figuring what is going on highlights how to use a GitHub Discussion Page. This is [Positrons](https://github.com/posit-dev/positron/discussions?discussions_q=visual+button) when I searched for visual button. I then found that a similar question was asked 3 days ago that led me to the linked thread above.
 
+<<<<<<< HEAD
 ![](/course/00_BonusContent/images/DiscussionPageSearch.png)
 
 # 00_Git
@@ -86,3 +87,6 @@ It will then ask you whether you want to save it as either a Public or a Private
 And if all goes well, you will see the "Successs" pop-up in the lower-right
 
 ![](/course/00_BonusContent/images/SuccessToGitHub.png)
+=======
+![](/course/00_BonusContent/images/DiscussionPageSearch.png)
+>>>>>>> a669884 (Renamed to index to allow faster url)
