@@ -2474,6 +2474,13 @@
     "text": "Visual Mode\nWithin Positron, there exist a toggle button to switch between source and visual mode on Quarto documents. But what do you do when you can’t find it?\n\nTuns out…. Visual Mode is currently broken, so the developers removed it about two weeks ago.\nThe current way to switch to it is via right-click, then select edit visual mode.\n\nVice versa, once there, you can revert by right-clicking and selecting Edit Source Mode\n\nThe process of figuring what is going on highlights how to use a GitHub Discussion Page. This is Positrons when I searched for visual button. I then found that a similar question was asked 3 days ago that led me to the linked thread above."
   },
   {
+    "objectID": "course/00_BonusContent/index.html#not-detecting-git",
+    "href": "course/00_BonusContent/index.html#not-detecting-git",
+    "title": "Bonus Content",
+    "section": "Not Detecting Git",
+    "text": "Not Detecting Git\nIf you leave the “Initialize Git Repository” option unclicked when setting up a New Folder from Template, Git will not be active within your project folder.\n\nAs a result, when you try to use the usethis packages use_github(private=true) function, you will get an error that resembles the one below\n\nTo initiate a Git repository after the fact, you will need to go to the Version Control tab in the action bar, and select the option.\n\nThen, you will need to stage the files you want to work with, and commit them.\n\nuse_github(private=TRUE) should now be functional at that point. However, you can also choose to continue via Positron’s interface instead by selecting Publish.\n\nIt will then ask you whether you want to save it as either a Public or a Private repository.\n\nAnd if all goes well, you will see the “Successs” pop-up in the lower-right"
+  },
+  {
     "objectID": "course/00_Floreada/index.html",
     "href": "course/00_Floreada/index.html",
     "title": "Using Floreada",
@@ -3054,6 +3061,7 @@
     "title": "01 - Installing R Packages",
     "section": "Documentation and Websites",
     "text": "Documentation and Websites\n\n\n\n\n\n\n\n\n.\n\n\nWe have already seen a couple ways to access the help documentation contained within an R package via Positron. Beyond internal documentation, R packages often have external websites that contain additional walk-through articles (ie. vignettes) to better document how to use the package.\nFor CRAN-based packages, we can start off by searching for the package name. So, in the case of dplyr"
+<<<<<<< HEAD
   },
   {
 <<<<<<< HEAD
@@ -3526,5 +3534,7 @@
     "section": "Not Detecting Git",
     "text": "Not Detecting Git\nIf you leave the “Initialize Git Repository” option unclicked when setting up a New Folder from Template, Git will not be active within your project folder.\n\nAs a result, when you try to use the usethis packages use_github(private=true) function, you will get an error that resembles the one below\n\nTo initiate a Git repository after the fact, you will need to go to the Version Control tab in the action bar, and select the option.\n\nThen, you will need to stage the files you want to work with, and commit them.\n\nuse_github(private=TRUE) should now be functional at that point. However, you can also choose to continue via Positron’s interface instead by selecting Publish.\n\nIt will then ask you whether you want to save it as either a Public or a Private repository.\n\nAnd if all goes well, you will see the “Successs” pop-up in the lower-right"
 >>>>>>> 261230a (GitHub Initialize Git Example)
+=======
+>>>>>>> 03c52d6 (Fix to the n of 20 challenge questions, 3 Bioc packages with wrong install commands, due to not editing copy-paste)
   }
 ]
